@@ -7,3 +7,4 @@
 * [iOS原生工程集成React Native示例](https://github.com/ljunb/iOSNativeDemo)
 * [快速搭建 TypeScript 和 React Native 的开发环境](https://github.com/ljunb/rn-relates/issues/5)
 * [记一次滑动组件开发](https://github.com/ljunb/rn-relates/issues/6)
+* [大屏手机 Text 出现空行问题](https://github.com/ljunb/rn-relates/issues/7)
