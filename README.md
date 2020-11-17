@@ -8,6 +8,7 @@
 * [快速搭建 TypeScript 和 React Native 的开发环境](https://github.com/ljunb/rn-relates/issues/5)
 * [记一次滑动组件开发](https://github.com/ljunb/rn-relates/issues/6)
 * [大屏手机 Text 出现空行问题](https://github.com/ljunb/rn-relates/issues/7)
+* [XPCodePush热更新体系](https://github.com/ljunb/rn-relates/issues/8)
 
 ### 挖坑系列（小鹏汽车社区2.16）
 - [ ] 列表联动可伸缩导航栏
