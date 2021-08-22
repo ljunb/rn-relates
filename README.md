@@ -1,6 +1,6 @@
 ## rn-relates
 该仓库用于收集平时项目实践中的一些记录吧☕️☕️
-* [XTangram实践](https://github.com/ljunb/rn-relates/issues/9)
+* [Tangram 动态布局实践](https://github.com/ljunb/rn-relates/issues/9)
 * [XPCodePush热更新体系](https://github.com/ljunb/rn-relates/issues/8)
 * [大屏手机 Text 出现空行问题](https://github.com/ljunb/rn-relates/issues/7)
 * [记一次滑动组件开发](https://github.com/ljunb/rn-relates/issues/6)
